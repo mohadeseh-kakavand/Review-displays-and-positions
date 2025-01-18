@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sticky{
+    height: 30px;
+    top: 0;
+    background-color: aqua;
+    position: sticky;
+}
+.p{
+    position: relative;
+}
