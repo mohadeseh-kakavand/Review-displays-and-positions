@@ -1,0 +1,15 @@
+.square{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    position: relative;
+}
+.para{
+    background-color: cadetblue;
+    left: 60px;
+    padding: 20px;
+    margin: 40px;
+    display: inline-block;
+    line-height: 60px;
+    position: absolute;
+}
