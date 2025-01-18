@@ -8,6 +8,8 @@
     top: 0;
     background-color: aqua;
     position: sticky;
+    padding: 8px;
+    margin: 5px;
 }
 .p{
     position: relative;
