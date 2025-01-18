@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+}
+.center{
+    height: 100px;
+    width: 210px;
+    top: 50%;
+    left: 40%;
+    background-color: cornflowerblue;
+    text-align: center;
+    line-height: 100px;
+    position: absolute;
+}
