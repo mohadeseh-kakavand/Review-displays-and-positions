@@ -1,0 +1,28 @@
+*{
+    height: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #040448;
+}
+.moon{
+    width: 200px;
+    height: 200px;
+    background-color: #f1c40f;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 30vh;
+    margin-left: 40vw;
+    z-index: 22;
+}
+.shademoon{
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+    width: 200px;
+    height: 200px;
+    background-color: #040448;
+    border-radius: 50%;
+    z-index: 222;
+}

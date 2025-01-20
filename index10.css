@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.apple{
+    width: 325px;
+    height: 360px;
+    border: 1px solid gainsboro;
+    margin: 15px;
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    
+}
+.image{
+    background-color: brown;
+    width: 284px;
+    height: 193px;
+    border-radius: 5px;
+}
+.img{
+    padding: 5px;
+}
+.para{
+  font-size: medium;
+  display: inline;
+}
+h1{
+    font-size: medium;
+}
+.Price{
+    color: orange;
+    border: 12px solid white;
+    margin: 0;
+}
+.styled{
+    background-color: orange;
+    color: antiquewhite;
+    padding: 5px;
+    border: gainsboro;
+    border-radius: 5px;
+}
